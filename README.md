@@ -78,6 +78,17 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 ---
 
+### 📜 Certifications
+
+- 🧠 **Deep Learning: Beginner to Advanced** — Codebasics *(Feb 2026)*
+  Neural networks, CNNs, RNNs, and Transformers with PyTorch
+- 📊 **Master Machine Learning for Data Science & AI: Beginner to Advanced** — Codebasics *(Jan 2026)*
+  ML fundamentals, math, and end-to-end project implementation
+- 💬 **Natural Language Processing** — Codebasics *(Jun 2026)*
+  Text preprocessing, representation, SpaCy, TF-IDF, BERT, and Hugging Face tools
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
