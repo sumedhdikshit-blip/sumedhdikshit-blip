@@ -128,6 +128,6 @@ I'm always open to interesting projects, hackathon collabs, and new opportunitie
 
 <div align="center">
 
-*"Build things that actually work."*
+*"Turning ideas into intelligent solutions."*
 
 </div>
