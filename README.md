@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumedh+Dikshit;Computer+Engineering+%C2%B7+AI%2FML+Enthusiast;Building+things+that+actually+work" alt="Typing SVG" />
+# 👋 Hi, I'm Sumedh Dikshit
+### Computer Engineering · AI/ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumedh-dikshit-754295360/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumedhdikshit-blip)
@@ -63,9 +64,9 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 | Project | Stack | Description |
 |---|---|---|
-| 🩺 **VitaLens_AI** | Flask, Machine Learning, KMeans Clustering, HTML, CSS, JS | AI-powered healthcare lifestyle analysis web app that clusters and analyzes user lifestyle data to provide health insights |
-| 🏠 **Real-Estate-AI-Assistant** | FastAPI, Groq LLM, CSS | AI-powered real estate assistant that helps users with property-related queries using a fast LLM backend |
-| 🛒 **E-Commerce-Product-FAQ-Assistant** | Python, FastAPI, Groq Llama 3.3, ChromaDB, SQLite, Semantic Router | AI-powered e-commerce chatbot supporting FAQ retrieval and product search using a sample e-commerce dataset |
+| 🩺 **VitaLens_AI** 🚧 *Coming Soon* | Flask, Machine Learning, KMeans Clustering, HTML, CSS, JS | AI-powered healthcare lifestyle analysis web app that classifies users into health risk categories based on their lifestyle data |
+| 🏠 **Real-Estate-AI-Assistant** | FastAPI, Groq LLM, LangChain, FAISS, HuggingFace Embeddings, CSS | AI-powered real estate assistant using a RAG pipeline — FAISS vector search + HuggingFace embeddings over property data, with Groq LLM for fast, context-aware responses |
+| 🛒 **E-Commerce-Product-FAQ-Assistant** 🚧 *Coming Soon* | Python, FastAPI, Groq Llama 3.3, ChromaDB, SQLite, **Semantic Router** | AI-powered e-commerce chatbot that uses **Semantic Router** to intelligently classify and route queries between FAQ retrieval and product search |
 | 📈 **ML-Project-Premium-Prediction** | Python, scikit-learn, Pandas, NumPy | Machine learning project that predicts insurance premiums based on user data |
 
 ---
@@ -114,7 +115,7 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 **🔬 Database & Research Intern · Caarya**
 📅 May 2025 – December 2025
-▸ Worked on database management and research tasks (non-technical role)
+▸ Researched startup ecosystems, E-Cells, and Shark Tank-style ventures, and compiled the findings into a detailed, structured database
 
 ---
 
