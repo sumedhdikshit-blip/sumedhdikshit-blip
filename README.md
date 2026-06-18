@@ -94,10 +94,14 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumedhdikshit-blip&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhdikshit-blip&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sumedhdikshit-blip&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhdikshit-blip&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sumedhdikshit-blip&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
