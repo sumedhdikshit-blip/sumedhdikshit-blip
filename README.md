@@ -15,13 +15,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Computer Engineering student at **KJ Somaiya College of Engineering** (B.Tech, Batch of 2028), currently maintaining a CGPA of **8.3**. I'm passionate about **AI/ML** and love building projects that solve real-world problems — from healthcare lifestyle analysis to AI-powered chatbots and real estate assistants.
+I'm a Computer Engineering student at **KJ Somaiya College of Engineering** (B.Tech, Batch of 2028), currently maintaining a CGPA of **8.5**. I'm passionate about **AI/ML** and love building projects that solve real-world problems — from healthcare lifestyle analysis to AI-powered chatbots and real estate assistants.
 
 I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, and I was a **finalist at the Parul Hackathon**. Whether it's training models or building end-to-end AI applications, I enjoy turning ideas into things that actually work.
 
 <div align="center">
 
-| 🎓 B.Tech Comps | 📊 8.3 CGPA | 🏆 Hackathon Finalist | 🤝 IETE Council |
+| 🎓 B.Tech Comps | 📊 8.5 CGPA | 🏆 Hackathon Finalist | 🤝 IETE Council |
 |:---:|:---:|:---:|:---:|
 | KJ Somaiya College of Engineering | Batch 2028 | Parul Hackathon | Joint Ops & Logistics Head |
 
@@ -75,7 +75,7 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 - 🏁 **Finalist** — Parul Hackathon (National Level)
 - 🤝 **Joint Operations and Logistics Head** — IETE Council
-- 🎓 Maintaining **8.3 CGPA** in B.Tech Computer Engineering at KJ Somaiya College of Engineering
+- 🎓 Maintaining **8.5 CGPA** in B.Tech Computer Engineering at KJ Somaiya College of Engineering
 
 ---
 
@@ -101,7 +101,7 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sumedhdikshit-blip&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=sumedhdikshit-blip&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
@@ -111,7 +111,7 @@ I'm also the **Joint Operations and Logistics Head** at the **IETE Council**, an
 
 | Institution | Degree | Score | Year |
 |---|---|---|---|
-| KJ Somaiya College of Engineering | B.Tech, Computer Engineering | 8.3 / 10 | 2024 – 2028 |
+| KJ Somaiya College of Engineering | B.Tech, Computer Engineering | 8.5 / 10 | 2024 – 2028 |
 
 ---
 
