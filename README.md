@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Engineering student at **KJ Somaiya College of Engineering**, currently pursuing my **B.Tech (Batch of 2028)** with a CGPA of **8.5/10**. I build end-to-end AI/ML applications — from healthcare lifestyle analysis tools to RAG-powered chatbots and real estate assistants — and I care about shipping things that actually work, not just demos.
+I'm a Computer Engineering student at **KJ Somaiya College of Engineering**, currently pursuing my **B.Tech (Batch of 2028)** with a CGPA of **8.5/10**. I build end-to-end AI/ML applications — from full-stack fitness platforms to RAG-powered chatbots and real estate assistants — and I care about shipping things that actually work, not just demos.
 
 I was a **finalist at the Parul Hackathon (National Level)**, and I currently serve as the **Joint Operations and Logistics Head** at the IETE Council, where I help run technical events and manage council operations.
 
@@ -74,7 +74,7 @@ I was a **finalist at the Parul Hackathon (National Level)**, and I currently se
 
 | Project | Stack | Description |
 |---|---|---|
-| 🩺 **VitaLens_AI** `🚧 Coming Soon` | Flask, KMeans, HTML/CSS/JS | Healthcare lifestyle analysis app — classifies users into health risk categories using clustering on lifestyle data |
+| 🏋️ **FitSense-AI** | FastAPI, SQLite, MediaPipe, OpenCV, Groq LLM, Chart.js | Full-stack fitness & nutrition platform — real-time workout form checking, ML-based recovery scoring, GenAI coaching tied to weight goals, and admin/user role-separated dashboards |
 | 🏠 **Real-Estate-AI-Assistant** | FastAPI, LangChain, FAISS, Groq | Full RAG pipeline real estate assistant — FAISS vector search + HuggingFace embeddings over property data, answered via Groq LLM |
 | 🛒 **E-Commerce-Product-FAQ-Assistant** `🚧 Coming Soon` | FastAPI, Groq Llama 3.3, ChromaDB, SQLite | E-commerce chatbot using Semantic Router to classify and route between FAQ retrieval and product search |
 | 📈 **ML-Project-Premium-Prediction** | Python, scikit-learn, Pandas | End-to-end ML pipeline predicting insurance premiums — covers preprocessing, feature engineering, model selection, and evaluation |
